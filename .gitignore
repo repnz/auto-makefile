@@ -1,0 +1,11 @@
+# Ignore object files
+*.o
+*.a
+
+# Ignore dependency files
+*.dep
+
+# Ignore binary directories
+bin
+build
+lib

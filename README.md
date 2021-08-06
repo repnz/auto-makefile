@@ -2,7 +2,7 @@
 
 Generic Makefile template with a good directory structure.
 
-What I hate about makefiles is that every example out there shows a decleration of all the 
+What I hate about makefiles is that every example out there shows a declaration of all the 
 files and dependencies in the Makefile, so the Makefile is project dependent and needs to be changed every 
 time dependencies between files change.
 
